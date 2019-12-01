@@ -33,8 +33,6 @@ export default {
             return smoothie.id != id
           })
         })
-      
-      
     }
   },
   created() {
