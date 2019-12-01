@@ -4,7 +4,7 @@
       <div class="nav-content">
         <router-link class="nav-title" to="/">Smoothies</router-link>
         <a href="" class="btn-floating btn-large halfway-fab pink">
-          <router-link to="/about">
+          <router-link to="/add-smoothie">
             <i class="material-icons">add</i>
           </router-link>
         </a>
